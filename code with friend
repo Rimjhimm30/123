@@ -2,4 +2,4 @@ strn="Test"
 print(strn[0])
 for i in range(len(strn)):
     print (i,strn[i])
-  
+  i=i+1
